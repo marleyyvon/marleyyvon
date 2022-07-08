@@ -3,7 +3,8 @@
     <div>
          <p> Hello, My name is Marley! <p>
       <p> I am a current juinor at Santa Clara University in California. Watch my academic journey and take a look at what I am currently working on!</p>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marleyyvon&show_icons=true&theme=dracula" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyyvon&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marleyyvon&show_icons=true&theme=radical" />
+<img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=marleyyvon&theme=radical&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyyvon&layout=compact" />
      
 

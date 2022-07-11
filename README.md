@@ -5,9 +5,15 @@
       <p> I am a current juinor at Santa Clara University in California. Watch my academic journey and take a look at what I am currently working on!</p>
       
 <p align="center">
+    <a href="https://github.com/marleyyvon" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
+    <a href="https://github.com/marleyyvon" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/marleyyvon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@marleyyvon-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/marleywill" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    
+    <a href="https://stackoverflow.com/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+    <a href="https://stackexchange.com" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
+    <a href="https://discord.com" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=flat&square&logo=discord&logoColor=white))"></a>
+     <a href="https://github.com/marleyyvon" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=flat-square&logo=Signal&logoColor=white"></a>
+
 </p>
       
       

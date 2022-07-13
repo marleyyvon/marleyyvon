@@ -3,6 +3,7 @@
 </p>
 <div id = "header" align = "center">
     <img src= "https://media3.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif?cid=790b7611526d4cf52814ae817d2ba597a1770abe4c7ec68e&rid=giphy.gif&ct=s" width="200" height="200">
+    <img src= "https://media1.giphy.com/media/2xPMQjuxsEFYwlbYWt/giphy.gif?cid=790b76119d89c4f915008b6e61fe9a6645dd411a0aa66047&rid=giphy.gif&ct=s" width="200" height="200">
     <div>
       <p> I am a current juinor at Santa Clara University in California. Watch my academic journey and take a look at what I am currently working on!</p>
       

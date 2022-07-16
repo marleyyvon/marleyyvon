@@ -7,7 +7,7 @@
     <img src= "https://media0.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif?cid=790b761134047b4b0cb8aa097b476509ca261ad2ddf85c57&rid=giphy.gif&ct=s" width="200" height="200">
     <div>
       <p> I am a current juinor at Santa Clara University in California. Watch my academic journey and take a look at what I am currently working on!</p>
-      
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
 <p align="center">
     <a href="https://github.com/marleyyvon" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
     <a href="https://github.com/marleyyvon" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -22,7 +22,7 @@
 <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=marleyyvon&theme=radical&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marleyyvon&theme=radical&langs_count=6&layout=compact" />
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" alt="Jokes Card" />
+<img align="left" width="47%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&theme=radical&height=100&section=footer"/>

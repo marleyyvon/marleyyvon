@@ -16,6 +16,7 @@
     <a href="https://stackoverflow.com/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
     <a href="https://stackexchange.com" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
      <a href="https://github.com/marleyyvon" target="_blank"><img alt="Signal" src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=flat-square&logo=Signal&logoColor=white"></a>
+     <img src="https://komarev.com/ghpvc/?username=marleyyvon&color=blueviolet&style=flat-square&label=Views"></a>
 </p>    
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marleyyvon&show_icons=true&theme=radical" />

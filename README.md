@@ -19,6 +19,9 @@
      <img src="https://komarev.com/ghpvc/?username=marleyyvon&color=551EB1&style=flat-square&label=Views"></a>
 </p>    
 
+<h1 align="left">
+  📊 Github Stats! 👾
+</h1>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=marleyyvon&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="http://github-readme-streak-stats.herokuapp.com?user=marleyyvon&theme=radical&include_all_commits=true&count_private=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a>

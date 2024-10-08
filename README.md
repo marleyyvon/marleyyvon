@@ -3,11 +3,13 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Senior%20at%20Santa%20Clara%20University-551EB1?style=for-the-badge&logo=gradle&logoColor=white" alt="Santa Clara University">
+    <img src="https://img.shields.io/badge/-Senior%20at%20Santa%20Clara%20University-551EB1?style=for-the-badge&logo=university&logoColor=white" alt="Santa Clara University">
 </div>
+
 <div align="center">
-    <img src="https://img.shields.io/badge/-Software%20Development%20and%20Academic%20Research-551EB1?style=for-the-badge&logo=codeforces&logoColor=white" alt="Projects">
+    <img src="https://img.shields.io/badge/-Software%20Development%20and%20Academic%20Research-551EB1?style=for-the-badge&logo=researchgate&logoColor=white" alt="Software Development and Research">
 </div>
+
 
 ---
 
@@ -15,7 +17,7 @@
     <a href="mailto:marleywillyoung@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"></a>
     <a href="mailto:mywillyoung@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
     <a href="https://github.com/marleyyvon" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/marleywill" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/marleyw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </div>
 
 <div align="center">

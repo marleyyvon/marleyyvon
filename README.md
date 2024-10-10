@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/-Senior%20at%20Santa%20Clara%20University-551EB1?style=for-the-badge&logo=university&logoColor=white" alt="Santa Clara University">
+    <img src="https://img.shields.io/badge/-Santa%20Clara%20University-551EB1?style=for-the-badge&logo=university&logoColor=white" alt="Santa Clara University">
 </div>
 
 <div align="center">

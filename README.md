@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=551EB1&height=100&section=header"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Marley." alt="Typing SVG" />
-</p>
 
 ---
 
@@ -41,8 +34,4 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=551EB1&height=100&section=footer"/>
-</p>
 

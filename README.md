@@ -20,15 +20,14 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/DPDK-0033A0?style=for-the-badge&logo=apache&logoColor=white" alt="DPDK">
-  <img src="https://img.shields.io/badge/VPP-0057B7?style=for-the-badge&logo=accenture&logoColor=white" alt="VPP">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
   <img src="https://img.shields.io/badge/GNU%20Radio-005AF0?style=for-the-badge&logo=amp&logoColor=white" alt="GNU Radio">
+  <img src="https://img.shields.io/badge/DPDK-0033A0?style=for-the-badge&logo=apache&logoColor=white" alt="DPDK">
+  <img src="https://img.shields.io/badge/VPP-0057B7?style=for-the-badge&logo=accenture&logoColor=white" alt="VPP">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
 
 </div>
 

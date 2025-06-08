@@ -3,7 +3,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Signal%20Processing-111827?style=for-the-badge&logo=scipy&logoColor=white" alt="Signal Processing">
-    <img src="https://img.shields.io/badge/IoT%20Systems-374151?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT Systems">
+    <img src="https://img.shields.io/badge/IoT%20Systems-374151?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT">
     <img src="https://img.shields.io/badge/Academic%20Research-5A1A1A?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research">
     <img src="https://img.shields.io/badge/Santa%20Clara%20University-990000?style=for-the-badge&logo=academia&logoColor=white" alt="Santa Clara University">
 </div>

@@ -2,13 +2,6 @@
 ---
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Signal%20Processing-000000?style=for-the-badge&logo=scipy&logoColor=white" alt="Signal Processing">
-    <img src="https://img.shields.io/badge/IoT-374151?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT">
-    <img src="https://img.shields.io/badge/Research-5A1A1A?style=for-the-badge&logo=researchgate&logoColor=white" alt="Research">
-    <img src="https://img.shields.io/badge/Santa%20Clara%20University-990000?style=for-the-badge&logo=academia&logoColor=white" alt="Santa Clara University">
-</div>
-
-<div align="center">
 
   <img src="https://img.shields.io/badge/Rust-9c0b0b?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/MQTT-b30404?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
